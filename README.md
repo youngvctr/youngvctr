@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youngvctr
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning python, C# programing language
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python, C# programming language
 - 💞️ I’m looking to collaborate on making a application for various topics
 - 📫 How to reach me
 
