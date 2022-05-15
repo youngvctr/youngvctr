@@ -5,6 +5,7 @@
 
 ### 1. 쿠팡코어 Back-end Engineer(serving Platform)
 #### 기술스택
+
 <pre>
 • 컴퓨터 공학 학시 학위 및/ 또는 석사 학위, 또는 이에 상응하는 학위가 있으신 분
 • Java 소프트웨어 설계 및 개발업에 최소 3년의 경력이 있는 분 
@@ -13,14 +14,18 @@
 • AWS를 사용하여 클라우드 컴퓨팅 경험이 있으신 분
 • 컨테이너 기반 테스팅 환경 개발 경험이 있으신 분
 • Java/ Intelli J / Spring 환경 경험하신 분
+</pre>
 
-우대사항
+#### 우대사항
+<pre>
 • Rx Java, React 프로그래밍 경험이 있으신 분
 • Spark, Hadoop, Cassandra, Kafka, Airflow를 사용한 데이터 파이프라인 개발 경험이 있으신 분
 • Kubernetes 환경에서 개발 경험이 있으신 분
 • 다문화, Cross functional 한 팀에서 일하는 것을 즐기시는 분
-[https://www.wanted.co.kr/wd/112725]
 </pre>
+
+[https://www.wanted.co.kr/wd/112725]
+
 
 ### 2. 카카오 모빌리티 챗봇시스템 개발 및 유지보수(Node.js)
 #### 기술스택
