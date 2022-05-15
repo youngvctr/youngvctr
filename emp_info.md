@@ -24,7 +24,7 @@
 • 다문화, Cross functional 한 팀에서 일하는 것을 즐기시는 분
 </pre>
 
-[www.wanted.co.kr/wd/112725]
+[https://www.wanted.co.kr/wd/112725]
 
 
 ### 2. 카카오 모빌리티 챗봇시스템 개발 및 유지보수(Node.js)
