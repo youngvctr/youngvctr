@@ -78,3 +78,15 @@
 </pre>
 
 [https://www.wanted.co.kr/wd/73714]
+
+
+## 채용정보 용어정리
+### 1.
+<pre>
+</pre>
+### 2.
+<pre>
+</pre>
+### 3.
+<pre>
+</pre>
