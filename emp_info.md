@@ -1,9 +1,8 @@
-# 웹무새_2의 웹 개발
+# 워너비웹무새의 웹 개발
 ## 요구조건
-- 기술 스택
-- 
+1. 기술 스택
+- Backend : PHP( Codeigniter )
+- 협업 도구 : Flow, Zeplin
+- 참조링크 https://www.wanted.co.kr/wd/111892
 
-
-
-
-[참조링크] [https://www.wanted.co.kr/wd/111892]
+2. 
